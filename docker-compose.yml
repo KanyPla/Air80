@@ -1,0 +1,7 @@
+version: '3'
+services:
+    bot:
+        build: .
+        command: ruby ftwbot.rb
+        volumes:
+            - .:/app

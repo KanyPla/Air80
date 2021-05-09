@@ -1,0 +1,15 @@
+#ruby '2.6.1'
+
+source 'https://rubygems.org'
+
+gem 'activerecord'
+gem 'discordrb'
+gem 'daemons'
+gem 'standalone_migrations'
+gem 'sqlite3'
+gem 'yard'
+gem 'minitest'
+gem 'log4r'
+gem 'require_all'
+gem 'text-table'
+gem 'rubocop'
